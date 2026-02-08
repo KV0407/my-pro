@@ -1,4 +1,3 @@
-//cat > src/App.js << 'EOF'
 
 
 import React from 'react';
